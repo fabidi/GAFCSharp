@@ -1,0 +1,13 @@
+ExperimentId	1
+NumRuns	1
+PopulationSize	50
+GeneomeLength	64
+DatasetNumVars	6
+CrossoverRate	0.7
+MutationRate	0.02
+NumGenerations	50
+DatasetUrl	D:\Google Drive\Professional\Freelancing\Freelancer.com\Jobs\Genetic Algorithm in C#\Part2\GAPart2\data1.txt
+TrainingFraction	0.85
+DataStructure	RULEBASED
+isExpressFitnessAsPercentage	True
+Eps	1E-06

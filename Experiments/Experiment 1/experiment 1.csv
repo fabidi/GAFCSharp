@@ -1,0 +1,6 @@
+NumRuns,AverageBestFitness(%%),AverageTestingSetClassificationRate(%%),NumGenerations,PopulationSize,GeneomeLength,CrossoverRate,MutationRate,TrainingFraction
+1,100,63,50,50,64,0.7,0.034,0.85
+1,96.3,78,100,100,64,0.65,0.6,0.85
+2,97.22,60,100,100,64,0.65,0.03,0.85
+2,97.22,45,100,100,64,0.65,0.02,0.85
+2,97.22,20,100,100,64,0.65,0.01,0.85
